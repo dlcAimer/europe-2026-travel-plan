@@ -1,0 +1,292 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Europe Travel Plan//ZH
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:docs-check@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:[建议处理] 按本人证件核对入境资格
+DESCRIPTION:签证情况未知，核对本人身份、有效期、入境
+ 次数与停留期。此为本周建议，不声称签证截止日。\nh
+ ttps://www.netherlandsworldwide.nl/visa-the-netherlands/visa-required
+END:VEVENT
+BEGIN:VEVENT
+UID:health-check@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:[建议处理] 按个人需要核对健康与保险
+DESCRIPTION:有常用药/疾病或疫苗疑问则联系医生；确认保
+ 险覆盖日期、活动与援助电话，不重复购买已持保单。
+ \nhttps://wwwnc.cdc.gov/travel/destinations/traveler/none/spain
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-t7@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:[建议处理] T-7复查／补做已过的T-14检查
+DESCRIPTION:建议T-7（09-18）处理；若尚未完成，现在补做
+ 。检查开放、目标门票、航司运行与个人入境资格。\nh
+ ttps://www.aemet.es/en/eltiempo/prediccion/avisos
+END:VEVENT
+BEGIN:VEVENT
+UID:ams-book-rijks@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:[建议处理] 如采纳国立博物馆，购买09-27首个可用
+ 上午时段（建议09:00）
+DESCRIPTION:需选择开始时间；目标时段库存未核实。若上
+ 午无票，删此活动并保留免费街区/公园与休息，不更
+ 改既有航班或酒店。\nhttps://www.rijksmuseum.nl/en/visit
+END:VEVENT
+BEGIN:VEVENT
+UID:svq-palace-book@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:[建议处理] 如采纳王宫，查10-04 09:30库存并购票
+DESCRIPTION:两人一般票€31，平台费用以结算为准；无票
+ 改当天免费外观，不能移动固定交通/酒店。\nhttps://alca
+ zarsevilla.org/prepara-la-visita/
+END:VEVENT
+BEGIN:VEVENT
+UID:bag-check@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:[建议处理] 逐段核对同一套行李
+DESCRIPTION:检查MF8518、VY8301、VY3908、VY3942、iryo06217、3U3804
+ 票种额度；未提供票种，不能给出全程已含托运结论。
+ \nhttps://www.vueling.com/en/prepare-your-trip
+END:VEVENT
+BEGIN:VEVENT
+UID:weather-t3@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:[建议处理] T-3复查天气与航司运行
+DESCRIPTION:查上海/厦门/阿姆斯特丹运行，保存交通截图
+ ；后续移动日前晚继续按当天行程复查。\nhttps://www.xiam
+ enair.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmi-private-transfer@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[建议处理] 预约10-03 07:30 Inturotel Cala Esmeralda → PMI
+  接送
+DESCRIPTION:建议出发前办妥；酒店要求私家接送至少提前4
+ 8小时。核对酒店完整名称、航班VY3942 11:05、行李数、
+ 司机联系方法与取消规则。早航班优先预约车；共享接
+ 送需72小时且可能多站绕行，不直接套用本计划时刻。\
+ nhttps://www.inturotel.com/en/hotels/inturotel-cala-esmeralda/location/
+END:VEVENT
+BEGIN:VEVENT
+UID:svq-luggage@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[建议处理] 确认塞维利亚退房时间与10-05行李寄存
+DESCRIPTION:住宿已确认；仅确认服务字段。需可寄存到18:0
+ 0左右，保存取包方式和关闭时间，不行则预先查合法
+ 车站寄存。\nhttps://www.agoda.com/en-ca/casa-patio-del-siglo-xix/ho
+ tel/seville-es.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mad-late-arrival@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:[建议处理] 告知马德里酒店23点后抵达并保存入住
+ 说明
+DESCRIPTION:官网24h前台支持晚到；告知10-05火车23:12到站、
+ 预计23:45–00:10到店，确认保留当晚房间及门禁。保存
+ 次晨06:45车。\nhttps://www.passwordhotels.com/en/atocha-rio/
+END:VEVENT
+BEGIN:VEVENT
+UID:ams-canal-booking@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:[建议处理] 如采纳运河博物馆，保存09-26官方购票
+ 入口
+DESCRIPTION:可现场购票，电子票不免排队；周末下午可能
+ 排队，本计划安排10:00。\nhttps://tickets.grachten.museum/en/tic
+ kets
+END:VEVENT
+BEGIN:VEVENT
+UID:offline-ready@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:[建议处理] T-1保存离线文件并测试电话卡
+DESCRIPTION:下载offline.html、订单与酒店地址；核对已购电
+ 话卡激活时点、两国覆盖、有效期和家人验证码接收；
+ 导出准备状态。
+END:VEVENT
+BEGIN:VEVENT
+UID:ams-airport-recheck@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20260927T160000Z
+DTEND:20260927T161500Z
+SUMMARY:[建议处理] 09-27晚复查次晨Sloterdijk→Schiphol列车并
+ 保存出租车备选
+DESCRIPTION:酒店建议07:00离店，08:00左右到机场；09:20值机/
+ 托运截止、09:40到登机口、10:00关登机口为Vueling公开规
+ 则倒推。\n当地时区：Europe/Amsterdam\nhttps://www.ns.nl/en/trav
+ el-information
+END:VEVENT
+BEGIN:VEVENT
+UID:sagrada-ready@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:[建议处理] 准备圣家堂已购票与耳机
+DESCRIPTION:09-29建议08:40离店，约09:10入口附近等候；09:45
+ 预约不变，按票面入口与票种。此项不是重新购票。\nh
+ ttps://sagradafamilia.org/en/
+END:VEVENT
+BEGIN:VEVENT
+UID:pmi-arrival-transit@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:[建议处理] 保存09-30 A51＋515当日衔接与付款说明
+DESCRIPTION:查询PMI Arribades→Campos La Verge→Cala Esmeralda；保
+ 存两段截图及换乘方向。若等待过长，改机场正规出租
+ 车，预算95–120 EUR一车。此为建议复查日期，非官方订
+ 票截止。\nhttps://www.tib.org/en/linies-i-horaris/autobus/-/linia/A5
+ 1
+END:VEVENT
+BEGIN:VEVENT
+UID:pmi-hotel-meals@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[建议处理] 入住时核对餐食包含、早早餐与送机
+ 集合点
+DESCRIPTION:不需要重新证明已确认的住宿；只补餐食范围
+ 和服务时段。10-02 18:00前复核次晨车和早餐袋。\nhttps://
+ www.inturotel.com/en/hotels/inturotel-cala-esmeralda/restaurants/
+END:VEVENT
+BEGIN:VEVENT
+UID:sea-gate@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[建议处理] 海岛活动天气门槛
+DESCRIPTION:10-01及10-02出门前重看AEMET和海滩旗帜；警报、
+ 雷暴、禁泳或体力不足就删除下水/码头远走，回酒店
+ 。\nhttps://www.aemet.es/en/eltiempo/prediccion/avisos
+END:VEVENT
+BEGIN:VEVENT
+UID:transfer-real-deadline@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20261001T053000Z
+DTEND:20261001T054500Z
+SUMMARY:[实际期限] 私家送机预约最迟提前48小时
+DESCRIPTION:酒店公开要求至少48小时；以10-03 07:30集合倒推
+ 10-01 07:30（Europe/Madrid）是公开最少提前量。库存可能更
+ 早售罄，应按09-23建议日期先处理。\n当地时区：Europe/M
+ adrid\nhttps://www.inturotel.com/en/hotels/inturotel-cala-esmeralda/loca
+ tion/
+END:VEVENT
+BEGIN:VEVENT
+UID:outbound@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20260925T001000Z
+DTEND:20260925T163000Z
+SUMMARY:[已确认] 厦门航空 MF8518
+DESCRIPTION:2026-09-25T08:10 Asia/Shanghai → 2026-09-25T18:30 Europe/Am
+ sterdam\n用户确认同一航班；在厦门按现场联程指引办理
+ ，行李手续不推定\n用户确认已订已付；时间为原始当
+ 地时刻换算UTC。
+END:VEVENT
+BEGIN:VEVENT
+UID:ams-bcn@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20260928T082000Z
+DTEND:20260928T104500Z
+SUMMARY:[已确认] 伏林 VY8301
+DESCRIPTION:2026-09-28T10:20 Europe/Amsterdam → 2026-09-28T12:45 Europe
+ /Madrid\n用户确认已订已付；时间为原始当地时刻换算UTC
+ 。
+END:VEVENT
+BEGIN:VEVENT
+UID:bcn-pmi@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20260930T093500Z
+DTEND:20260930T103000Z
+SUMMARY:[已确认] 伏林 VY3908
+DESCRIPTION:2026-09-30T11:35 Europe/Madrid → 2026-09-30T12:30 Europe/Ma
+ drid\n用户确认已订已付；时间为原始当地时刻换算UTC。
+END:VEVENT
+BEGIN:VEVENT
+UID:pmi-svq@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20261003T090500Z
+DTEND:20261003T104500Z
+SUMMARY:[已确认] 伏林 VY3942
+DESCRIPTION:2026-10-03T11:05 Europe/Madrid → 2026-10-03T12:45 Europe/Ma
+ drid\n用户确认已订已付；时间为原始当地时刻换算UTC。
+END:VEVENT
+BEGIN:VEVENT
+UID:svq-mad@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20261005T182800Z
+DTEND:20261005T211200Z
+SUMMARY:[已确认] iryo 06217
+DESCRIPTION:2026-10-05T20:28 Europe/Madrid → 2026-10-05T23:12 Europe/Ma
+ drid\n用户确认已订已付；时间为原始当地时刻换算UTC。
+END:VEVENT
+BEGIN:VEVENT
+UID:return@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20261006T085500Z
+DTEND:20261007T024000Z
+SUMMARY:[已确认] 四川航空 3U3804
+DESCRIPTION:2026-10-06T10:55 Europe/Madrid → 2026-10-07T10:40 Asia/Shan
+ ghai\n用户确认同一航班经成都；两个05:00原样留档。中
+ 间细分时刻不完整，不计算独立转机、停留或行李手续
+ 。\n用户确认已订已付；时间为原始当地时刻换算UTC。
+END:VEVENT
+BEGIN:VEVENT
+UID:sagrada@europe-2026-two.local
+DTSTAMP:20260919T000000Z
+SEQUENCE:3
+DTSTART:20260929T074500Z
+DTEND:20260929T100000Z
+SUMMARY:已确认 圣家堂09:45预约
+DESCRIPTION:入口按票面；游览结束时间为规划估算，非票
+ 面时限。
+END:VEVENT
+END:VCALENDAR
